@@ -1,0 +1,38 @@
+May 06, 2022 3:55:47 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Accensione server
+May 06, 2022 3:55:48 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Partita di Tablut
+May 06, 2022 3:56:09 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Accettata connessione con client giocatore Bianco
+May 06, 2022 3:56:09 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Lettura nome player bianco in corso..
+May 06, 2022 3:56:10 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: White player name:	HowIMetYou
+May 06, 2022 3:56:10 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Accettata connessione con client giocatore Nero
+May 06, 2022 3:56:10 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Lettura nome player nero in corso..
+May 06, 2022 3:56:11 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Black player name:	random
+May 06, 2022 3:56:12 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Invio messaggio ai giocatori
+May 06, 2022 3:56:12 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Lettura mossa player W in corso..
+May 06, 2022 3:56:21 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Move received.	Turn: W Pawn from e3 to b3
+May 06, 2022 3:56:21 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Invio messaggio ai client
+May 06, 2022 3:56:21 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Lettura mossa player B in corso..
+May 06, 2022 3:56:23 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Move received.	Turn: B Pawn from a4 to a2
+May 06, 2022 3:56:23 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Invio messaggio ai client
+May 06, 2022 3:56:23 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Lettura mossa player W in corso..
+May 06, 2022 3:56:31 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Move received.	Turn: W Pawn from e4 to e3
+May 06, 2022 3:56:31 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Invio messaggio ai client
+May 06, 2022 3:56:31 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Lettura mossa player B in corso..

@@ -1,0 +1,23 @@
+May 06, 2022 7:38:19 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+FINE: Players:	HowIMetYou	vs	random
+May 06, 2022 7:38:19 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+FINE: Repeated moves allowed:	0	Cache:	-1
+May 06, 2022 7:38:19 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+FINE: Inizio partita
+May 06, 2022 7:38:19 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+FINE: Stato:
+OOOBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOWOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+W
+May 06, 2022 7:41:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut processMove
+FINE: Partita terminata in pareggio per numero di stati ripetuti
+May 06, 2022 7:41:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut processMove
+FINE: Equal states found: 1

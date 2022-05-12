@@ -1,0 +1,10 @@
+May 06, 2022 3:45:53 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Accensione server
+May 06, 2022 3:45:54 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Partita di Tablut
+May 06, 2022 3:45:59 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Accettata connessione con client giocatore Bianco
+May 06, 2022 3:45:59 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: Lettura nome player bianco in corso..
+May 06, 2022 3:46:00 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+FINE: White player name:	HowIMetYou
