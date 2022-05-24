@@ -35,14 +35,14 @@ public class AlphaBetaSearch {
         	
         double[] valA = new double [actions.size()];
         timer.start();
-        depthMax = 0;
+        int depthVal = 0;
         
         do {
-        	depthMax++;
+        	depthVal++;
 	        i = 0;
 	        for (Action action : actions) {
 	            clone = state.clone();
-	            valA[i] = minValue(game.processMove(clone, action), Double.NEGATIVE_INFINITY, Double.POSITIVE_INFINITY, 1);
+	            valA[i] = minValue(game.processMove(clone, action), Double.NEGATIVE_INFINITY, Double.POSITIVE_INFINITY, depthVal);
 	            if (timer.timeOut()) {
 	                break; 
 	            }
@@ -54,7 +54,7 @@ public class AlphaBetaSearch {
 	        		contains = true;
 	        	}
 	        }
-        } while(!timer.timeOut() && !contains);
+        } while(!timer.timeOut() && !contains && depthVal < depthMax);
         
         int maxVal = 0;
         double max = valA[0];
